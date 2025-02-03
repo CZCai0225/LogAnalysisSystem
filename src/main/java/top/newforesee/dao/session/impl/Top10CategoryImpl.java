@@ -9,7 +9,7 @@ import java.sql.SQLException;
 
 /**
  * 操作特定品类点击、下单和支付总数对应的实体类的数据访问层接口实现类<br/>
- * creat by newforesee 2018/11/29
+ * xxx 2024/11/29
  */
 public class Top10CategoryImpl implements ITop10Category {
 

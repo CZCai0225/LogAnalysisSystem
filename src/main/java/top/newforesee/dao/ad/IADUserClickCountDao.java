@@ -6,7 +6,6 @@ import java.util.List;
 
 /**
  * 统计每天各用户对各广告的点击次数功能接口
- * creat by newforesee 2018/11/30
  */
 public interface IADUserClickCountDao {
     /**

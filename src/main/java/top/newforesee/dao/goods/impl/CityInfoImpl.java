@@ -10,7 +10,7 @@ import java.sql.SQLException;
 import java.util.List;
 
 /**
- * creat by newforesee 2018/11/30
+ * xxx 2024/11/30
  */
 public class CityInfoImpl implements ICityInfo {
     private QueryRunner qr = new QueryRunner(DBCPUtil.getDataSource());

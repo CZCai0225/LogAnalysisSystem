@@ -8,7 +8,7 @@ import top.newforesee.utils.DBCPUtil;
 import java.sql.SQLException;
 
 /**
- * creat by newforesee 2018/11/29
+ * xxx 2024/11/29
  */
 public class Top10CategorySessionImpl implements ITop10CategorySession {
     private QueryRunner qr = new QueryRunner(DBCPUtil.getDataSource());

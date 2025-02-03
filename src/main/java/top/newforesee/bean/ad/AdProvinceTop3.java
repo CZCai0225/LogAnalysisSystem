@@ -2,7 +2,6 @@ package top.newforesee.bean.ad;
 
 /**
  * xxx
- * creat by newforesee 2018/12/4
  */
 public class AdProvinceTop3 {
 

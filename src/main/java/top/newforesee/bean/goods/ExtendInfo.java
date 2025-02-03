@@ -3,7 +3,7 @@ package top.newforesee.bean.goods;
 import lombok.Data;
 
 /**
- * creat by newforesee 2018/11/30
+ * xxx
  */
 
 public class ExtendInfo {

@@ -14,7 +14,6 @@ import java.util.List;
 
 /**
  * xxx
- * creat by newforesee 2018/12/4
  */
 public class AdProvinceTop3DaoImpl implements IAdProvinceTop3Dao {
     private QueryRunner qr = new QueryRunner(DBCPUtil.getDataSource());

@@ -8,7 +8,7 @@ import top.newforesee.utils.DBCPUtil;
 import java.sql.SQLException;
 
 /**
- * creat by newforesee 2018/11/27
+ * xxx
  */
 public class SessionAggrStatImpl implements ISessionAggrStat {
     private QueryRunner qr = new QueryRunner(DBCPUtil.getDataSource());

@@ -1,7 +1,7 @@
 package top.newforesee.bean.ad;
 
 /**
- * creat by newforesee 2018/11/30
+ * xxx
  */
 public class AdUserClickCount {
     /**

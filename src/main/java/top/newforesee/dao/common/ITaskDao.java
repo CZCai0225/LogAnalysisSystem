@@ -4,7 +4,7 @@ import scala.Int;
 import top.newforesee.bean.Task;
 
 /**
- * creat by newforesee 2018/11/27
+ * xxx 2024/11/27
  */
 public interface ITaskDao {
     Task findTaskById(int taskId);

@@ -4,7 +4,7 @@ import lombok.Data;
 
 /**
  * Session明细数据实体类
- * creat by newforesee 2018/11/28
+ * xxx 2024/11/28
  */
 @Data
 public class SessionDetail {

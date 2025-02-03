@@ -19,10 +19,6 @@ import top.newforesee.utils.StringUtils
   *
   * <br/>
   * Copyright (c) ， 2018， Jansonxu <br/>
-  * This program is protected by copyright laws. <br/>
-  *
-  * @author 徐文波
-  * @version : 1.0
   */
 class SessionAggrStatAccumulator extends AccumulatorV2[String, String] {
   //session_count=0|1s_3s=0|4s_6s...|60=0

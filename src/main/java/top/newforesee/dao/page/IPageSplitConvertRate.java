@@ -4,7 +4,7 @@ import top.newforesee.bean.page.PageSplitConvertRate;
 
 /**
  * 页面单挑转化率数据访问层接口
- * creat by newforesee 2018/11/30
+ * xxx 2024/11/30
  */
 public interface IPageSplitConvertRate {
 

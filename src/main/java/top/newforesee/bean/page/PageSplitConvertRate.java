@@ -2,7 +2,7 @@ package top.newforesee.bean.page;
 
 /**
  * 页面单挑转化率实体类
- * creat by newforesee 2018/11/30
+ * xxx 2024/11/30
  */
 public class PageSplitConvertRate {
     /**

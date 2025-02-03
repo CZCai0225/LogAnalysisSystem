@@ -9,7 +9,7 @@ import java.sql.SQLException;
 import java.util.List;
 
 /**
- * creat by newforesee 2018/11/28
+ * xxx 2024/11/28
  */
 public class SessionRandomExtractImpl implements ISessionRandomExtract {
     private QueryRunner qr = new QueryRunner(DBCPUtil.getDataSource());

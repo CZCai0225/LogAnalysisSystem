@@ -12,7 +12,6 @@ import java.util.List;
 
 /**
  * 统计每天各用户对各广告的点击次数功能接口实现类
- * creat by newforesee 2018/11/30
  */
 public class ADUserClickCountDaoImpl implements IADUserClickCountDao {
     private QueryRunner qr = new QueryRunner(DBCPUtil.getDataSource());

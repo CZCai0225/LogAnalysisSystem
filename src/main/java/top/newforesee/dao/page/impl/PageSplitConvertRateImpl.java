@@ -8,7 +8,7 @@ import top.newforesee.utils.DBCPUtil;
 import java.sql.SQLException;
 
 /**
- * creat by newforesee 2018/11/30
+ * xxx 2024/11/30
  */
 public class PageSplitConvertRateImpl implements IPageSplitConvertRate {
     private QueryRunner qr = new QueryRunner(DBCPUtil.getDataSource());

@@ -2,7 +2,6 @@ package top.newforesee.bean.ad;
 
 /**
  * 最近1小时各广告各分钟的点击量数据的封装
- * creat by newforesee 2018/12/4
  */
 public class AdClickTrend {
     /**
@@ -16,7 +15,7 @@ public class AdClickTrend {
     private int ad_id;
 
     /**
-     * 分钟（20180328 14:50）
+     * 分钟（20240328 14:50）
      */
     private String minute;
 

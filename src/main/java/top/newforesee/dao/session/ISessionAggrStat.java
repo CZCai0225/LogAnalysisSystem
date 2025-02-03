@@ -3,7 +3,7 @@ package top.newforesee.dao.session;
 import top.newforesee.bean.session.SessionAggrStat;
 
 /**
- * creat by newforesee 2018/11/27
+ * xxx 2024/11/27
  */
 public interface ISessionAggrStat {
     /**

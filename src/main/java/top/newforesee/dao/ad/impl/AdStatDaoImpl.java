@@ -11,7 +11,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
- * creat by newforesee 2018/12/4
+ * xxx
  */
 public class AdStatDaoImpl implements IAdStatDao {
     private QueryRunner qr = new QueryRunner(DBCPUtil.getDataSource());

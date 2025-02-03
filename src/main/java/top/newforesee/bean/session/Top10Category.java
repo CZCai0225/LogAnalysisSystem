@@ -4,7 +4,7 @@ import lombok.Data;
 
 /**
  * 封装特定品类点击、下单和支付总数实体类<br/>
- * creat by newforesee 2018/11/29
+ * xxx 2024/11/29
  */
 @Data
 

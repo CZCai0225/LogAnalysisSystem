@@ -4,7 +4,7 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 
 /**
- * creat by newforesee 2018/11/28
+ * xxx 2024/11/28
  */
 @Data
 public class SessionRandomExtract {

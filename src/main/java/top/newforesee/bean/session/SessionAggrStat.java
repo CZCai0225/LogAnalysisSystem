@@ -3,7 +3,7 @@ package top.newforesee.bean.session;
 import lombok.Data;
 
 /**
- * creat by newforesee 2018/11/27
+ * xxx 2024/11/27
  */
 @Data
 public class SessionAggrStat {
